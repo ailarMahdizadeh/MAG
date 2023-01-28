@@ -1,7 +1,11 @@
-# MAG
+# MAHGNN
 
 1)Data aquisition 
 
-We will use subset of ABIDE1 data as our dataset. Indeed, we will utilize Leuven site's data.
+The functional connectivities based on cc200 atlas was aquired with your help together.
+I have used the same configuration coding for cc400, and it was sucessful. However, for ho atlas, although it has runned sucesfully, no file was saved with the name of ho.
 
-Data can be downloaded from here https://fcon_1000.projects.nitrc.org/indi/abide/
+2) Modification
+
+Following to "Data aquisition step, the modification of this code is based 200 and 329 ROIs. 
+We have one gcn layer  
