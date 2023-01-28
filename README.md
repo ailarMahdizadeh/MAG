@@ -7,4 +7,4 @@ I have used the same configuration coding for cc400, and it was sucessful. Howev
 
 2) Modification
 
-Following to "Data aquisition" step, the modification of this code is based 200 and 329 ROIs that affected number of layers, their shapes and so on.
+Following to "Data aquisition" step, the modification of this code is based 200 and 329 ROIs that has affected number of layers, their shapes and so on.
