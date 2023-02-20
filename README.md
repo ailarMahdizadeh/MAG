@@ -16,6 +16,7 @@ The matlab code that I wrote for this arrangement is available in
 
 https://drive.google.com/file/d/1ghoSJVKNwDftuv_9XAO2lIqrrst37V0v/view?usp=sharing
 
+The subject info file inside this Repository
 
 
 2) Running
