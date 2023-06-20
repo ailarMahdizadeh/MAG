@@ -1,4 +1,4 @@
-# MAHGNN
+# fMRI
 
 1) Downloading data
 
